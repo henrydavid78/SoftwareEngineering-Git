@@ -1,0 +1,104 @@
+commit 24576af38ef17fce73fefcd1c114193051ab3cae
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 18:34:37 2022 -0500
+
+    Agregando 2 párrafos
+
+commit 7e9a13ba2fc90097e3fdef460eb21f23a38b93e2
+Merge: b67eaec 2ba72fb
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 18:32:03 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit b67eaec3ee3464e04e69e270d310f75e1791cd5a
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 18:15:52 2022 -0500
+
+    Agregando las estaciones del año con fecha
+
+commit 2ba72fb92c66c85132b03dce0e4e2c9bda947218
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 18:15:52 2022 -0500
+
+    Agregando estaciones del año
+
+commit a76f1445e65a86d4048d450c8ff92600c79a39bf
+Merge: 25e5577 f7e5058
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 18:08:36 2022 -0500
+
+    Resolviendo conflicto merge main/html en el docuemnto index.html
+
+commit f7e50589a88403cb3f395ab7eb8acfb520f8c103
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 18:01:17 2022 -0500
+
+    Agregando index.js a index.html
+
+commit 25e55775329f434bf6005237bbe8c93dc2ac2090
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 17:57:07 2022 -0500
+
+    Agregando style.css a index.html
+
+commit 93b771151c157fcb5132570a2fc103600fbadc9f
+Merge: c940968 3bdb188
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 17:47:22 2022 -0500
+
+    Merge branch 'js'
+
+commit 3bdb188c012da1c5b7ac9b9fca468844306e669b
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 17:42:28 2022 -0500
+
+    Creando index.js
+
+commit c9409684e9a5ec2281e081be610778eb7050eaa9
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 17:40:35 2022 -0500
+
+    Guardando cambios
+
+commit abeded2ccbcff7559a1622711fd993642e854c4c
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 17:45:38 2022 -0500
+
+    Creando style.css
+
+commit 23616ca875a228896512e7aa1120c97df03810f5
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 17:39:37 2022 -0500
+
+    Creando archivo index.html
+
+commit 4fbe92a69a6cfde63ef49ed57e7538d8d4b91a54
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 17:11:15 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 8af8e4a570f1e1f922a239564a1f747656ebff1b
+Author: henrydavid78 <114032067+henrydavid78@users.noreply.github.com>
+Date:   Sat Oct 29 16:15:28 2022 -0500
+
+    Creando licencia del repositorio
+
+commit ecd5b5c6a457bf7d29eb05118de899cba1103822
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 16:22:58 2022 -0500
+
+    Agregando aún más contenido al archivo README.md
+
+commit d78632df7ec56aa7ee80c3222b08a1de786f50fa
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 16:07:00 2022 -0500
+
+    Agregando contenido inicial al README, mediante commit -m
+
+commit b1180c0b7efb030a604322424dfa9b4c530e362b
+Author: Henry <henry.cadena@didactaecuador.com>
+Date:   Sat Oct 29 16:00:43 2022 -0500
+
+    Primer Commit
